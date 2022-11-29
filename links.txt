@@ -1,0 +1,7 @@
+jestjs.io
+
+instalation - yarn add --dev jest
+
+cypress.io
+
+instalation - yarn add --dev cypress
